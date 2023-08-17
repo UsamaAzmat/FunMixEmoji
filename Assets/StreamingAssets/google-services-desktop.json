@@ -1,0 +1,305 @@
+{
+  "project_info": {
+    "project_number": "1014299463601",
+    "project_id": "rsg-projects",
+    "storage_bucket": "rsg-projects.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014299463601:android:e0c43b9f22e3764c61f790",
+        "android_client_info": {
+          "package_name": "com.rsg.air.attack.shooting.airplane.games"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014299463601-2nng3j5ifdrv8i381bertmelubeuqs8r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvamdfMcuKKvaNHB6EllS22JsSO-vulEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014299463601-2nng3j5ifdrv8i381bertmelubeuqs8r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014299463601:android:ce800eafa03bb84a61f790",
+        "android_client_info": {
+          "package_name": "com.rsg.alphabet.shooting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014299463601-2nng3j5ifdrv8i381bertmelubeuqs8r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvamdfMcuKKvaNHB6EllS22JsSO-vulEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014299463601-2nng3j5ifdrv8i381bertmelubeuqs8r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-9917171224118880~6403045600"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014299463601:android:c4e22a131ce219b861f790",
+        "android_client_info": {
+          "package_name": "com.rsg.dressup.makeup.girls.games"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014299463601-2nng3j5ifdrv8i381bertmelubeuqs8r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvamdfMcuKKvaNHB6EllS22JsSO-vulEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014299463601-2nng3j5ifdrv8i381bertmelubeuqs8r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014299463601:android:9435bc68ae2401f961f790",
+        "android_client_info": {
+          "package_name": "com.rsg.fps.horizon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014299463601-2nng3j5ifdrv8i381bertmelubeuqs8r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvamdfMcuKKvaNHB6EllS22JsSO-vulEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014299463601-2nng3j5ifdrv8i381bertmelubeuqs8r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-9917171224118880~9683449138"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014299463601:android:3ecedc1794c30ed261f790",
+        "android_client_info": {
+          "package_name": "com.rsg.fps.shooting.gun.games.offline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014299463601-2nng3j5ifdrv8i381bertmelubeuqs8r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvamdfMcuKKvaNHB6EllS22JsSO-vulEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014299463601-2nng3j5ifdrv8i381bertmelubeuqs8r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-9917171224118880~1869067557"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014299463601:android:9bbdaeb51af2444361f790",
+        "android_client_info": {
+          "package_name": "com.rsg.good.bad.mom.run.games"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014299463601-2nng3j5ifdrv8i381bertmelubeuqs8r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvamdfMcuKKvaNHB6EllS22JsSO-vulEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014299463601-2nng3j5ifdrv8i381bertmelubeuqs8r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014299463601:android:c2d7ea29fdc0ffa261f790",
+        "android_client_info": {
+          "package_name": "com.rsg.open.world.gun.shooting.horror.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014299463601-2nng3j5ifdrv8i381bertmelubeuqs8r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvamdfMcuKKvaNHB6EllS22JsSO-vulEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014299463601-2nng3j5ifdrv8i381bertmelubeuqs8r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-9917171224118880~6251786182"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014299463601:android:ec0095179481edfd61f790",
+        "android_client_info": {
+          "package_name": "com.rsg.puzzle.match.emoji.games"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014299463601-2nng3j5ifdrv8i381bertmelubeuqs8r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvamdfMcuKKvaNHB6EllS22JsSO-vulEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014299463601-2nng3j5ifdrv8i381bertmelubeuqs8r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014299463601:android:11f619ed25056d5561f790",
+        "android_client_info": {
+          "package_name": "com.rsg.tarret.shooter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014299463601-2nng3j5ifdrv8i381bertmelubeuqs8r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvamdfMcuKKvaNHB6EllS22JsSO-vulEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014299463601-2nng3j5ifdrv8i381bertmelubeuqs8r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-9917171224118880~7337115681"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014299463601:android:ad6668c721560c1461f790",
+        "android_client_info": {
+          "package_name": "com.rsg.vehicle.master.driving.car.games"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014299463601-2nng3j5ifdrv8i381bertmelubeuqs8r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvamdfMcuKKvaNHB6EllS22JsSO-vulEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014299463601-2nng3j5ifdrv8i381bertmelubeuqs8r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
